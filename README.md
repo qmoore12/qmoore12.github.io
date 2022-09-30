@@ -17,4 +17,4 @@ console.log('hello world')
 ![alt text](path to your image)
 
 
-![Basketball]
+![GSU](https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Georgia_State_Athletics_logo.svg/1200px-Georgia_State_Athletics_logo.svg.png)
